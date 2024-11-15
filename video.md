@@ -1,4 +1,4 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: IA Generativa na engenharia 🎥
 
 ## 📒 Descrição
 Estes audios e vídeo de apresentam uma descrição resumida da aplicação das IAs Generativas na engenharia.
